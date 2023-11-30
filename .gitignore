@@ -1,0 +1,7 @@
+node_modules
+.vscode
+/dist
+nexus-lisec-internal.pem
+# webpack.config.js
+backup
+*/.DS_Store
