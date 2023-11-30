@@ -4,4 +4,4 @@ node_modules
 nexus-lisec-internal.pem
 # webpack.config.js
 backup
-*/.DS_Store
+.DS_Store
